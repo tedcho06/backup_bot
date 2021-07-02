@@ -21,4 +21,4 @@ async def on_member_join(member):
     except:
         pass
 #
-client.run(app.config["DISCORD_BOT_TOKEN"])
+client.run(app.config["ODYwNTU3OTY0NDA2MTYxNDA4.YN8_Dw.-b8WUQwAjojaL54FI8FZcC0vNPQ"])
